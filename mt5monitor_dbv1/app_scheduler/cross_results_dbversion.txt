@@ -1,0 +1,4437 @@
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-07 12:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-07 12:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-07 12:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-07 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-07 14:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-07 14:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-07 15:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-07 15:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-07 15:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-07 15:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-07 15:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-07 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-07 17:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-07 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-07 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-07 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-07 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-07 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-07 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-07 19:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-07 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-07 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-07 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-07 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-07 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-07 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-07 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-07 20:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-07 20:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-07 20:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-07 21:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-07 22:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-07 22:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-07 22:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-07 22:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-07 22:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-07 23:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-08 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-08 11:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-08 11:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-08 11:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-08 11:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-08 11:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-08 11:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-08 14:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-08 15:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-08 18:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-08 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-08 19:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-08 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-08 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-08 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-08 20:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-08 20:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-08 21:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-08 21:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-08 21:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-08 22:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-08 22:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-08 22:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-08 22:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-08 22:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-08 22:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-08 23:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-08 23:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-08 23:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-08 23:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-08 23:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-08 23:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-08 23:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-09 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-09 01:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-09 01:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-09 01:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-09 02:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-09 03:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-09 04:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-09 04:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-09 05:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-09 05:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-09 05:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-09 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-09 05:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-09 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-09 06:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-09 06:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-09 06:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-09 06:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-09 06:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-09 06:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-09 07:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-09 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-09 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-09 09:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-09 09:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>WEEK</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-09 10:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-09 10:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-09 10:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-09 10:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-09 11:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-09 11:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-09 11:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-09 11:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-09 12:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-09 12:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-09 12:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-09 12:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-09 13:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-09 13:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-09 13:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-09 14:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-09 15:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-09 16:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-09 16:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-09 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-09 17:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-09 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-09 18:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-09 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-09 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-09 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-09 20:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-09 20:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-09 20:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-09 20:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-09 21:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-09 22:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-09 22:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-12 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-12 09:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-12 10:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-12 12:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-12 13:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-12 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-12 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-12 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-12 13:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-12 14:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-12 15:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-12 15:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-12 15:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-12 16:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-12 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-12 16:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-12 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-12 18:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-12 18:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-12 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-12 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-12 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-12 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-12 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-12 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-12 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-12 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-12 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-12 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-12 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-12 20:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-12 21:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-12 21:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-12 23:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-12 23:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-13 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-13 00:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-13 01:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-13 01:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-13 04:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-13 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-13 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-13 06:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-13 06:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-13 06:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-13 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-13 10:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-13 11:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-13 11:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-13 11:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-13 11:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-13 11:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-13 11:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-13 11:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-13 12:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-13 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-13 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-13 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-13 14:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-13 15:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-13 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-13 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-13 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-13 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-13 17:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-13 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-13 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-13 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-13 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-13 18:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-13 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-13 20:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-13 21:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-13 21:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-13 21:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-13 22:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-13 22:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-13 23:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-14 01:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-14 05:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-14 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-14 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-14 06:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-14 06:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-14 06:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-14 07:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-14 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-14 08:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-19 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-19 13:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-19 14:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-19 14:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-19 15:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-19 16:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-19 18:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-19 18:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-19 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-19 22:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-20 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-20 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-20 01:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-20 01:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-20 02:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-20 04:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-20 06:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-20 06:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-20 07:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-20 07:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-20 07:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-20 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-20 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-20 07:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-20 07:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-20 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-20 08:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-20 08:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-20 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-20 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-20 08:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-20 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-20 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-22 14:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-22 14:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-22 14:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-22 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-22 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-22 18:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-22 18:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-22 18:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-22 18:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-22 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-22 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-22 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-22 20:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-22 20:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-22 20:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-22 20:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-22 20:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-22 20:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-22 20:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-22 21:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-22 21:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-22 21:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-22 22:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-22 22:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-22 23:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-22 23:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-22 23:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-22 23:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-22 23:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-23 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-23 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-23 00:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-23 02:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-23 02:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-23 02:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-23 02:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-23 02:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-23 03:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-23 03:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-23 04:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-23 04:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-23 04:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-23 04:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-23 05:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURJPY</b>
+Time:       <b>2021-07-23 05:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-23 05:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-23 05:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDJPY</b>
+Time:       <b>2021-07-23 06:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-23 06:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCHF</b>
+Time:       <b>2021-07-23 07:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-23 07:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-23 07:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-23 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-23 09:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-23 09:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-23 09:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-23 09:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-23 09:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-23 10:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-23 10:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-23 10:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-23 11:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-23 11:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-23 11:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-23 12:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-23 13:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-23 13:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-23 14:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-23 14:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-23 14:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-23 14:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-23 14:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-23 15:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-23 15:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-23 15:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-23 15:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-23 16:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-23 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-23 16:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDCAD</b>
+Time:       <b>2021-07-23 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-23 17:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-23 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURGBP</b>
+Time:       <b>2021-07-23 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-23 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-23 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-23 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPCAD</b>
+Time:       <b>2021-07-23 18:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURUSD</b>
+Time:       <b>2021-07-23 19:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>USDCAD</b>
+Time:       <b>2021-07-23 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-23 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-23 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPAUD</b>
+Time:       <b>2021-07-23 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-23 20:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-23 20:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDJPY</b>
+Time:       <b>2021-07-23 20:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-27 17:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 17:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 18:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-27 18:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 18:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 18:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 18:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 19:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-27 20:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 20:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 21:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-27 22:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-28 01:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-28 02:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-28 04:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-28 04:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-28 05:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-28 03:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-28 03:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-28 04:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-28 04:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-28 04:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-28 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-28 06:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-28 07:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-28 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-28 05:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-28 06:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-28 16:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-28 16:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-28 16:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-28 17:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-29 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-28 23:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-29 02:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-29 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-29 06:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-29 08:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-29 08:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-29 07:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-29 08:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-29 09:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-29 12:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-29 12:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-29 15:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-30 01:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-29 23:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-30 02:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-30 04:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-30 06:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-07-30 06:45:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-30 08:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-30 12:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-07-30 12:45:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-30 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 13:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-30 13:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-30 13:45:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 13:45:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 14:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-30 14:45:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-30 15:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-07-30 15:15:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-30 16:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-30 16:45:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-30 17:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-30 17:15:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-30 17:15:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-07-30 17:15:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-07-30 17:15:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 17:45:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 18:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 22:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 22:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-07-30 23:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-02 17:45:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-02 17:45:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-02 17:45:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-08-02 17:45:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>15M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-02 18:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-02 22:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-02 23:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-02 23:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-02 23:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-03 01:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-03 01:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-03 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-03 02:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 02:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-03 02:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-03 02:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 02:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-03 03:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-03 03:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 03:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-08-03 03:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-03 03:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 03:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-08-03 03:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-08-03 04:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 05:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-08-03 05:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 05:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-03 10:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-08-03 10:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 15:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-03 15:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-08-03 16:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-03 16:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-03 16:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-03 16:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 16:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-03 16:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-03 16:30:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-03 17:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-03 18:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-03 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-03 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-03 19:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>30M</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-03 19:30:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-04 03:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-04 04:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPUSD</b>
+Time:       <b>2021-08-04 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-04 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>GBPJPY</b>
+Time:       <b>2021-08-04 17:00:00 IST</b>
+Signal:     <b>BUY</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> True </b>
+SAR Below: <b> True </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURCAD</b>
+Time:       <b>2021-08-04 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>NZDUSD</b>
+Time:       <b>2021-08-06 02:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>AUDUSD</b>
+Time:       <b>2021-08-06 03:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>STRONG</b>
+ClosePriceAbove 20EMA: <b> False </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-06 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-06 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-06 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 
+EMACross <b>H1</b>
+Symbol:  <b>EURAUD</b>
+Time:       <b>2021-08-06 17:00:00 IST</b>
+Signal:     <b>SELL</b> 
+Strength:   <b>MODERATE</b>
+ClosePriceAbove 20EMA: <b> True </b>
+RSIAbove 50: <b> False </b>
+SAR Below: <b> False </b>
+******************************************* 

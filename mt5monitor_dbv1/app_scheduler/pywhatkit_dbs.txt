@@ -1,0 +1,89 @@
+--------------------
+Date: 18:5:2021
+Time: 22:18
+Group_id: GjoHhZKJ9ngDys6H3Bwl7B
+Message: EMACross: *EURUSD* Time: *2021-05-18 22:00:00 IST* 
+ EMACross: *NZDUSD* Time: *2021-05-18 22:00:00 IST* 
+ 
+--------------------
+Date: 18:5:2021
+Time: 22:33
+Group_id: GjoHhZKJ9ngDys6H3Bwl7B
+Message: EMACross: *EURUSD* Time: *2021-05-18 22:00:00 IST* 
+ EMACross: *NZDUSD* Time: *2021-05-18 22:00:00 IST* 
+ EMACross: *AUDUSD* Time: *2021-05-18 22:15:00 IST* 
+ EMACross: *EURUSD* Time: *2021-05-18 22:15:00 IST* 
+ 
+--------------------
+Date: 18:5:2021
+Time: 22:48
+Group_id: GjoHhZKJ9ngDys6H3Bwl7B
+Message: EMACross: *EURUSD* Time: *2021-05-18 22:00:00 IST* 
+ EMACross: *NZDUSD* Time: *2021-05-18 22:00:00 IST* 
+ EMACross: *AUDUSD* Time: *2021-05-18 22:15:00 IST* 
+ EMACross: *EURUSD* Time: *2021-05-18 22:15:00 IST* 
+ EMACross: *AUDUSD* Time: *2021-05-18 22:30:00 IST* 
+ 
+--------------------
+Date: 31:5:2021
+Time: 14:17
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *USDJPY* Time: *2021-05-31 14:00:00 IST* 
+ 
+--------------------
+Date: 31:5:2021
+Time: 14:32
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *USDJPY* Time: *2021-05-31 14:00:00 IST* 
+ EMACross: *EURUSD* Time: *2021-05-31 14:15:00 IST* 
+ 
+--------------------
+Date: 31:5:2021
+Time: 15:2
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *EURUSD* Time: *2021-05-31 14:45:00 IST* 
+ 
+--------------------
+Date: 31:5:2021
+Time: 16:17
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *USDCHF* Time: *2021-05-31 16:00:00 IST* 
+ 
+--------------------
+Date: 31:5:2021
+Time: 16:47
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *USDCHF* Time: *2021-05-31 16:00:00 IST* 
+ EMACross: *USDCHF* Time: *2021-05-31 16:30:00 IST* 
+ 
+--------------------
+Date: 31:5:2021
+Time: 17:2
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *USDCHF* Time: *2021-05-31 16:00:00 IST* 
+ EMACross: *USDCHF* Time: *2021-05-31 16:30:00 IST* 
+ EMACross: *USDCAD* Time: *2021-05-31 16:45:00 IST* 
+ EMACross: *AUDUSD* Time: *2021-05-31 16:45:00 IST* 
+ 
+--------------------
+Date: 31:5:2021
+Time: 17:17
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *USDCHF* Time: *2021-05-31 16:00:00 IST* 
+ EMACross: *USDCHF* Time: *2021-05-31 16:30:00 IST* 
+ EMACross: *USDCAD* Time: *2021-05-31 16:45:00 IST* 
+ EMACross: *AUDUSD* Time: *2021-05-31 16:45:00 IST* 
+ EMACross: *GBPUSD* Time: *2021-05-31 17:00:00 IST* 
+ 
+--------------------
+Date: 31:5:2021
+Time: 17:32
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *USDCHF* Time: *2021-05-31 16:00:00 IST* 
+ EMACross: *USDCHF* Time: *2021-05-31 16:30:00 IST* 
+ EMACross: *USDCAD* Time: *2021-05-31 16:45:00 IST* 
+ EMACross: *AUDUSD* Time: *2021-05-31 16:45:00 IST* 
+ EMACross: *GBPUSD* Time: *2021-05-31 17:00:00 IST* 
+ EMACross: *EURUSD* Time: *2021-05-31 17:15:00 IST* 
+ 
+--------------------

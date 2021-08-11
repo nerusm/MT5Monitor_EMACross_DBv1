@@ -1,0 +1,11 @@
+--------------------
+Date: 18:5:2021
+Time: 16:5
+Group_id: KUY9RDl7SQcHULNt2DoB5H
+Message: EMACross: *USDCAD* Time: *2021-05-18 14:45:00 IST* 
+ EMACross: *USDCAD* Time: *2021-05-18 15:00:00 IST* 
+ EMACross: *AUDUSD* Time: *2021-05-18 15:00:00 IST* 
+ EMACross: *USDCAD* Time: *2021-05-18 15:15:00 IST* 
+ EMACross: *AUDUSD* Time: *2021-05-18 15:15:00 IST* 
+ 
+--------------------
