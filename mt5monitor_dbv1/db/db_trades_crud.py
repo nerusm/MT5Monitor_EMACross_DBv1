@@ -1,9 +1,9 @@
 import logging
 
-
-from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.trades_orm import RetCode, Trade, ReTrade
 import sqlalchemy
+import sqlalchemy.dialects.mysql.mariadbconnector
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config
+from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.trades_orm import ReTrade, RetCode, Trade
 from sqlalchemy import create_engine
 
 
@@ -16,7 +16,8 @@ class TardesCrud:
         port = config['port']
         logging.debug(f"Initialising DB connection for {from_func}, schema: {schema_name}")
         self.engine = create_engine(
-            f"mariadb+mariadbconnector://{uname}:{password}@{host}:{port}/" + schema_name,pool_size=20, max_overflow=0)
+            f"mariadb+mariadbconnector://{uname}:{password}@{host}:{port}/" + schema_name,
+            pool_size=20, max_overflow=0)
         self.conn = self.engine.connect()
         return self.engine
 
@@ -36,16 +37,14 @@ class TardesCrud:
         logging.debug(f"Closing Connection for {from_func}")
         self.conn.close()
 
-
     # def __del__(self):
     #     self.session.close()
     #     logging.debug(f"Destructor called in TradesCrud")
 
-
     def addNewRetrade(self, posid_dict):
         reTrade = ReTrade(position_id=posid_dict.get("position_id"),
                           symbol=posid_dict.get('symbol'),
-                          strat_id= posid_dict.get('strat_id'),
+                          strat_id=posid_dict.get('strat_id'),
                           order_type=posid_dict.get('order_type'),
                           close_time=posid_dict.get('close_time'))
         self.session.add(reTrade)
@@ -71,12 +70,13 @@ class TardesCrud:
         return retrade_list
 
     def select_all_retrades_by_status_strat_id(self, strat_id):
-        retrade_list = self.session.query(ReTrade).filter_by(is_retraded=False, strat_id=strat_id).all()
+        retrade_list = self.session.query(ReTrade).filter_by(is_retraded=False,
+                                                             strat_id=strat_id).all()
         return retrade_list
 
     def update_retrade_status(self, position_ids):
         for pid in position_ids:
-            retrade= self.session.query(ReTrade).filter_by(position_id = pid).first()
+            retrade = self.session.query(ReTrade).filter_by(position_id=pid).first()
             retrade.is_retraded = True
             self.session.commit()
 
@@ -97,12 +97,13 @@ class TardesCrud:
         self.session.commit()
         return trade
 
-    def updateStatusByPositionId(self, position_id, profit, reason, volume,
+    def updateStatusByPositionId(self, symbol, position_id, profit, reason, volume,
                                  open_time, close_time, close_price):
         trade = self.session.query(Trade).filter_by(position_id=position_id).first()
         if trade is None:
             logging.error(f"Trade is None: {position_id}")
         logging.debug(f"Trade Sel: {trade}")
+        trade.symbol = symbol
         trade.is_open = False
         trade.profit = profit
         trade.reason = reason
