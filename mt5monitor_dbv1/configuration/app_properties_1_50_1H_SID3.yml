@@ -20,7 +20,7 @@ check_trend_for_retrade: False
 lookback_stop_loss: 10
 no_of_bars_wait: 4
 lot_size: 0.01
-tp_pips: 20
+tp_pips: 10
 retrade_tp_pips: 10
 retry_ret_codes: [0,10020,10021,10004,10013, 10016]
 no_of_retries: 5

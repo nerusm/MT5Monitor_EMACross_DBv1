@@ -105,7 +105,7 @@ def check_signal(prev_ema_bool):
 def __check_crossed__(data, no_of_bars_to_check):
     tailed_df = data.tail(no_of_bars_to_check)
     tailed_df.reset_index(drop=True, inplace=True)
-    logging.debug(f"tail: \n{tailed_df}")
+    logging.debug(f"\ntail: \n{tailed_df}")
     if tailed_df.at[0, 'short_grtr_long'] != tailed_df.at[1, 'short_grtr_long']:
         signal = check_signal(tailed_df.at[0, 'short_grtr_long'])
         return signal

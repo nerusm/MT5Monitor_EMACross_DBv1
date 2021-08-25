@@ -117,4 +117,4 @@ def get_open_positions(symbol, signal, comment):
     logging.debug(f"posit_dict: {posit_dict}")
     return posit_dict
 
-sync_trade_book()
+# sync_trade_book()
