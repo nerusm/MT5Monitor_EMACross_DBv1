@@ -1,4 +1,5 @@
 import sqlalchemy, logging
+import sqlalchemy.dialects.mysql.mariadbconnector
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config
 from sqlalchemy import create_engine
 

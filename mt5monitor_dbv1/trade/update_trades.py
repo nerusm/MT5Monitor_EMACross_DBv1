@@ -70,7 +70,7 @@ def update_trade(deals):
                         f"Position Id: {position_id}"
 
         try:
-            tc.updateStatusByPositionId(position_id=exit_deal.position_id,
+            tc.updateStatusByPositionId(symbol=exit_deal.symbol,position_id=exit_deal.position_id,
                                         profit=exit_deal.profit,
                                         reason=reason_text(exit_deal.reason),
                                         volume=exit_deal.volume,

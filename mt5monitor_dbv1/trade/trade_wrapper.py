@@ -2,6 +2,7 @@ import logging
 
 import MetaTrader5 as mt5
 from MetaTrader5._core import TradePosition
+import sqlalchemy.dialects.mysql.mariadbconnector
 
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.exceptions import handle
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.trade_order_requests import execute_trade
