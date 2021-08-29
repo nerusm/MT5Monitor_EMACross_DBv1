@@ -129,6 +129,7 @@ def execute_trade(symbol, signal, action=None,
     logging.debug(f"Response: {response}")
     if response is not None:
         ret_code = response.retcode
+        logging.debug(f"In Response is not None: {ret_code}")
     else:
         logging.warning(f"Sleep for {config['retry_interval_secs']} seconds and re-init mt5...")
         ret_code = 0
@@ -137,6 +138,7 @@ def execute_trade(symbol, signal, action=None,
         if retry_count <= config.get('no_of_retries'):
             logging.debug(f"Re-executing trade with new request. Retry Count: {retry_count}")
             retry_count += 1
+            mt5.shutdown()
             execute_trade(symbol=symbol,
                           signal=signal,
                           action=action,
@@ -152,6 +154,7 @@ def execute_trade(symbol, signal, action=None,
             if retry_count <= config.get('no_of_retries'):
                 logging.debug(f"Re-executing trade with new request. Retry Count: {retry_count}")
                 retry_count += 1
+                mt5.shutdown()
                 execute_trade(symbol=symbol,
                               signal=signal,
                               action=action,

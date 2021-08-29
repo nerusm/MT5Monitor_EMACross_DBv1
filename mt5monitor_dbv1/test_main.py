@@ -14,5 +14,5 @@ time_frame_dict = {15: 15, 30: 30, 60: 16385, 120: 16386, 180: 16387, 240: 16388
 #     time_frame=time_frame_dict.get(30), ema_span=['5','12'])
 
 start_ema_cross(
-    symbols=['GBPUSD'],
+    symbols=['GBPCAD'],
     time_frame=time_frame_dict.get(60), ema_span=['1','50'], strat_id=config['strat_id'])

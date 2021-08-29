@@ -115,7 +115,7 @@ def __check_crossed__(data, no_of_bars_to_check):
         # return Signal.SELL.name
 
 
-def find_stop_loss(n, data, signal):
+def find_stop_loss(n, data, signal, is_retrade = False):
     if signal == 'SELL':
         tail = data.tail(n)['high'].round(4)
         tail.reset_index(drop=True, inplace=True)
@@ -143,7 +143,7 @@ def find_stop_loss(n, data, signal):
             pl = tail.at[llidx - 1]
         else:
             pl = ll
-        if llidx < tail.size:
+        if llidx < tail.size-1:
             nl = tail.at[llidx + 1]
         else:
             nl = ll
@@ -156,6 +156,7 @@ def find_stop_loss(n, data, signal):
 
 def __get_rates__(symbol, time_frame, no_of_bars):
     rates = mt5.copy_rates_from_pos(symbol, time_frame, 0, no_of_bars)
+    # mt5.cop
     retry_count = 0
     no_of_retries = config['no_of_retries']
     if rates is None:

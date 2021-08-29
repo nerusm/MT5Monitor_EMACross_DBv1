@@ -1,8 +1,7 @@
 import MetaTrader5 as mt5
-import logging
 import sqlalchemy.dialects.mysql.mariadbconnector
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.db.db_trades_crud import TardesCrud
-
+import logging
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.mt5_api.ema_cross_s1.ema_cross import check_retrade
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.trade_wrapper import execute_trade_wrapper
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.update_trades import sync_trade_book
