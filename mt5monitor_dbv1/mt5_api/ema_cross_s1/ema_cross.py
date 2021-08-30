@@ -126,6 +126,7 @@ def find_stop_loss(n, data, signal, is_retrade = False):
         else:
             ph = hh
         if hhidx < tail.size-1:
+            # this was added to commit
             nh = tail.at[hhidx + 1]
         else:
             nh = hh
