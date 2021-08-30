@@ -15,7 +15,7 @@ send_notification: False
 #send_notification: True
 #execute_trade: False
 execute_trade: True
-no_of_bars_to_check : 2
+no_of_bars_to_check : 4
 check_trend_for_retrade: False
 lookback_stop_loss: 10
 no_of_bars_wait: 4

@@ -18,7 +18,8 @@ def prepare_dataset(data):
     data['SAR'] = talib.SAR(data.high, data.low, acceleration=0.02, maximum=0.2).round(
         round_digits)
     data['RSI_14'] = talib.RSI(data.close, timeperiod=14).round(2)
-    data.to_csv("output.csv", sep=",")
+    # data.to_csv("output.csv", sep=",")
+    # comment to trigger commit
     return data
 
 
