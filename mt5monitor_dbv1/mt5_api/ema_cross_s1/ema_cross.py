@@ -125,7 +125,7 @@ def find_stop_loss(n, data, signal, is_retrade = False):
             ph = tail.at[hhidx - 1]
         else:
             ph = hh
-        if hhidx < tail.size:
+        if hhidx < tail.size-1:
             nh = tail.at[hhidx + 1]
         else:
             nh = hh
