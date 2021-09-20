@@ -7,7 +7,7 @@ import MetaTrader5 as mt5
 import numpy as np
 import pandas as pd
 import talib
-from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config
+from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config, get_round_decimal
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.db.db_connection import DB_Connection
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.mt5_api.ema_cross_s1.check_signal_strength_v1 import \
     SignalStrength
@@ -24,9 +24,10 @@ comment = 'EMA_Cross'
 def check_retrade(symbol, time_frame, no_of_bars, ema_span, signal, check_trend,
                   lookback_stop_loss):
     no_of_bars_for_trend = 8
+    round_digits = get_round_decimal(symbol=symbol)
     index = list(range(0, no_of_bars_for_trend - 1))
     df_rates = __get_rates__(symbol=symbol, time_frame=time_frame, no_of_bars=no_of_bars)
-    ema_rate = __get_ema__(df_rates=df_rates, ema_span=ema_span)
+    ema_rate = __get_ema__(df_rates=df_rates, ema_span=ema_span, round_digits=round_digits)
     df_tail = df_rates.tail(1).reset_index()
     ema_tail = ema_rate.tail(1).reset_index()
 
@@ -75,10 +76,9 @@ def get_trend(index, data, order):
         return "DOWN"
 
 
-def __get_ema__(df_rates, ema_span):
+def __get_ema__(df_rates, ema_span, round_digits=5):
     short_span = int(ema_span[0])
     long_span = int(ema_span[1])
-    round_digits = 5
     df_rates['ema_short'] = df_rates['close'].ewm(span=short_span, adjust=False).mean().round(
         round_digits)
     df_rates['ema_long'] = df_rates['close'].ewm(span=long_span, adjust=False).mean().round(
@@ -246,8 +246,9 @@ class EMA:
         df_rates = __get_rates__(symbol=symbol,
                                  time_frame=time_frame,
                                  no_of_bars=config['no_of_bars'])
+        round_digits = get_round_decimal(symbol=symbol)
         if df_rates is not None:
-            result = __get_ema__(df_rates, ema_span)
+            result = __get_ema__(df_rates, ema_span, round_digits=round_digits)
 
             length = len(result.index)
             comparision_result = np.where(result['ema_short'] > result['ema_long'], True, False)
@@ -271,6 +272,7 @@ class EMA:
                 signal_strength = signal_strength_obj.check_indicators()
                 if signal_strength.strength == 'WEEK' and strat_id == 1:
                     result["is_crossed"] = ""
+                    crossed['is_crossed'] = False
                     logging.debug(
                         f"Strength is : {signal_strength.strength}, so rejecting this signal")
                 else:

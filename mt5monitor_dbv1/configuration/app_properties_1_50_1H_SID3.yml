@@ -1,6 +1,6 @@
 strat_name: 1x50EMA_H1_S3
 system_name: SurenWindows
-symbols: ['AUDUSD','EURAUD','GBPJPY','GBPCAD','EURCAD','GBPUSD']
+symbols: ['GBPUSD', 'EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP',  'USDJPY', 'GBPJPY', 'AUDJPY']
 time_frame: 60
 ema_spans: [1,50]
 strat_id: 3
@@ -15,11 +15,11 @@ send_notification: False
 #send_notification: True
 #execute_trade: False
 execute_trade: True
-no_of_bars_to_check : 4
+no_of_bars_to_check : 2
 check_trend_for_retrade: False
 lookback_stop_loss: 10
 no_of_bars_wait: 4
-lot_size: 0.01
+lot_size: 0.05
 tp_pips: 10
 retrade_tp_pips: 10
 retry_ret_codes: [0,10020,10021,10004,10013, 10016]
@@ -53,6 +53,6 @@ uname: root
 password: root
 
 ## Log file path ##
-log_file_path: C:\Suren\logs\DBVersion\application.logs
+log_file_path: C:\Suren\logs\DBVersion\application_1x50_1H_SID3.logs
 retrade_log_file_path: C:\Suren\logs\DBVersion\retrade_application.logs
 log_format: '%(asctime)s:: %(module)s.%(funcName)s - %(levelname)s :: %(message)s'
