@@ -13,3 +13,4 @@ def get_round_decimal(symbol):
     else:
         return config['decimals']
 
+#Comebnt

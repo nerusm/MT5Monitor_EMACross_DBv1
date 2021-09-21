@@ -19,7 +19,7 @@ from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.utilities.utils import convert_to_
 
 comment = 'EMA_Cross'
 # comment = 'EMA_Cross_T'
-
+#cccc
 
 def check_retrade(symbol, time_frame, no_of_bars, ema_span, signal, check_trend,
                   lookback_stop_loss):
