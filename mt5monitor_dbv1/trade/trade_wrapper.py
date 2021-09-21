@@ -19,7 +19,7 @@ def flip_signal(signal):
 
 def execute_trade_wrapper(symbol, signal, stop_loss, parent_position_id, strat_id=1,
                           strat_ref_id=1,
-                          usr_comment='default'):
+                          usr_comment='default', is_retrade = False):
     open_positions = get_open_positions(symbol=symbol, signal=flip_signal(signal),
                                         comment=usr_comment)
     if len(open_positions) > 0:
@@ -32,11 +32,11 @@ def execute_trade_wrapper(symbol, signal, stop_loss, parent_position_id, strat_i
 
     logging.debug(f"Opening a new {signal} trade")
     return open_new_trade(symbol=symbol, signal=signal, stop_loss=stop_loss, strat_id=strat_id,
-                          strat_ref_id=None, usr_comment=usr_comment)
+                          strat_ref_id=None, usr_comment=usr_comment, is_retraded=is_retrade)
 
 
 def open_new_trade(symbol, signal, stop_loss, strat_id, strat_ref_id, usr_comment,
-                   parent_position_id=None):
+                   is_retraded, parent_position_id=None):
     exception_msg = f"<b>Open new Trade</b>\n" \
                     f"Symbol: {symbol} \n" \
                     f"Signal: {signal} \n" \

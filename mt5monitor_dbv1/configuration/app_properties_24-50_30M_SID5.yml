@@ -1,11 +1,11 @@
 strat_name: 24x50EMA_H1_S4
 system_name: SurenWindows
-symbols: ['GBPUSD','AUDUSD','EURAUD','GBPJPY','GBPCAD','EURCAD']
+symbols: ['GBPUSD', 'EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP', 'USDJPY', 'GBPJPY', 'AUDJPY']
 time_frame: 30
-ema_spans: [24,50]
+ema_spans: [26,50]
 strat_id: 5
 
-decimals: 4
+decimals: 5
 timezone: UTC
 mt5_trader_timezone: "Europe/Athens"
 time_frame_dict: {15: 15M, 30: 30M, 16385: H1, 16386: H2, 16387: H3, 16388: H4}

@@ -107,7 +107,6 @@ def get_order_request(action, data_dict):
     func = switcher.get(action)
     return func(data_dict)
 
-
 def execute_trade(symbol, signal, action=None,
                   position_id=None, stop_loss = None, retry_count=1,
                   comment = 'default'):
