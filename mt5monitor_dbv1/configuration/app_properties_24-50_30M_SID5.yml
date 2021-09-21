@@ -1,8 +1,8 @@
 strat_name: 24x50EMA_H1_S4
 system_name: SurenWindows
-symbols: ['GBPUSD', 'EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP']
+symbols: ['GBPUSD', 'EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP', 'USDJPY', 'GBPJPY', 'AUDJPY']
 time_frame: 30
-ema_spans: [24,50]
+ema_spans: [26,50]
 strat_id: 5
 
 decimals: 5
