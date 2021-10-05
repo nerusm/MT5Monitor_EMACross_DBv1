@@ -26,6 +26,7 @@ no_of_retries: 5
 retry_interval_secs: 5
 no_trade_time_range: [[1,12],[20,23]]
 no_trade_day_range: [4,5,6]
+check_signal_strength: True
 
 # *** Telegram configurations
 

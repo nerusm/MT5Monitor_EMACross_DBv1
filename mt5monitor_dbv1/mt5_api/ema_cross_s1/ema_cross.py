@@ -274,7 +274,7 @@ class EMA:
                                                      signal=signal,
                                                      df_rates=df_rates)
                 signal_strength = signal_strength_obj.check_indicators()
-                if signal_strength.strength == 'WEEK' and strat_id == 1:
+                if signal_strength.strength == 'WEEK' and config['check_signal_strength'] == True:
                     result["is_crossed"] = ""
                     crossed['is_crossed'] = False
                     logging.debug(
