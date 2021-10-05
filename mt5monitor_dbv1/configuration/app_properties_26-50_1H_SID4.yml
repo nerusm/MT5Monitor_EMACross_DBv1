@@ -1,6 +1,6 @@
 strat_name: 26x50EMA_H1_S4
 system_name: SurenWindows
-symbols: ['GBPUSD', 'EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP', 'USDJPY', 'GBPJPY', 'AUDJPY']
+symbols: ['GBPUSD', 'GBPCAD','EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP', 'USDJPY', 'GBPJPY', 'AUDJPY']
 time_frame: 60
 ema_spans: [26,50]
 strat_id: 4
@@ -25,7 +25,8 @@ retrade_tp_pips: 40
 retry_ret_codes: [0,10020,10021,10004,10013]
 no_of_retries: 3
 retry_interval_secs: 2
-
+no_trade_time_range: [[1,12],[20,23]]
+no_trade_day_range: [1,2]
 # *** Telegram configurations
 
 bot_token: 1853540243:AAH5xBB6arBk6Ggu1YTCa7gSO3vPxDo_AWM

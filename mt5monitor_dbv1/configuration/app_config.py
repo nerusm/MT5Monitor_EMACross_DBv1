@@ -12,5 +12,3 @@ def get_round_decimal(symbol):
         return 5
     else:
         return config['decimals']
-
-#Comebnt

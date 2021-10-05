@@ -6,20 +6,23 @@ from datetime import datetime
 import MetaTrader5 as mt5
 import numpy as np
 import pandas as pd
-import talib
-from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config, get_round_decimal
+from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config, \
+    get_round_decimal
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.db.db_connection import DB_Connection
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.mt5_api.ema_cross_s1.check_signal_strength_v1 import \
     SignalStrength
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.trade_wrapper import execute_trade_wrapper
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.utilities.signal_enum import Signal
-from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.utilities.utils import convert_to_ist
+from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.utilities.utils import convert_to_ist, \
+    is_trade_restricted
 
 # from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.exceptions import handle
 
 comment = 'EMA_Cross'
+
+
 # comment = 'EMA_Cross_T'
-#cccc
+# cccc
 
 def check_retrade(symbol, time_frame, no_of_bars, ema_span, signal, check_trend,
                   lookback_stop_loss):
@@ -115,7 +118,7 @@ def __check_crossed__(data, no_of_bars_to_check):
         # return Signal.SELL.name
 
 
-def find_stop_loss(n, data, signal, is_retrade = False):
+def find_stop_loss(n, data, signal, is_retrade=False):
     if signal == 'SELL':
         tail = data.tail(n)['high'].round(4)
         tail.reset_index(drop=True, inplace=True)
@@ -125,7 +128,7 @@ def find_stop_loss(n, data, signal, is_retrade = False):
             ph = tail.at[hhidx - 1]
         else:
             ph = hh
-        if hhidx < tail.size-1:
+        if hhidx < tail.size - 1:
             # this was added to commit
             nh = tail.at[hhidx + 1]
         else:
@@ -144,7 +147,7 @@ def find_stop_loss(n, data, signal, is_retrade = False):
             pl = tail.at[llidx - 1]
         else:
             pl = ll
-        if llidx < tail.size-1:
+        if llidx < tail.size - 1:
             nl = tail.at[llidx + 1]
         else:
             nl = ll
@@ -218,7 +221,7 @@ class EMA:
         result['sar_below'] = signal_strength.sar_below
         result['possible_stop_loss'] = possible_sl
 
-        if config['execute_trade'] is True:
+        if config['execute_trade'] is True and not is_trade_restricted():
             logging.debug("Executing Trade")
             for index, row in result.iterrows():
                 logging.debug(f"Initiating trade request for {row['symbol']}")
@@ -237,7 +240,8 @@ class EMA:
                 # self.db_conn_cls_obj.close_connection(from_func=self.__module__)
                 return execute_trade_resp
         else:
-            logging.debug("NOT Executing Trade")
+            logging.debug(
+                "NOT Executing Trade, Reason either execute trade is False or due to time constraint")
 
     def main_fun(self, symbol, time_frame, ema_span, strat_id):
         logging.debug("***********")
