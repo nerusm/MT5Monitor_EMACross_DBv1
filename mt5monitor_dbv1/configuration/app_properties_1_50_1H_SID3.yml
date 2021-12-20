@@ -18,14 +18,15 @@ execute_trade: True
 no_of_bars_to_check : 2
 lookback_stop_loss: 10
 no_of_bars_wait: 4
-lot_size: 0.05
-tp_pips: 10
+lot_size: 0.1
+tp_pips: 20
+no_of_trades: 2
 retrade_tp_pips: 10
 retry_ret_codes: [0,10020,10021,10004,10013, 10016]
 no_of_retries: 5
 retry_interval_secs: 5
-no_trade_time_range: [[1,12],[20,23]]
-no_trade_day_range: [4,5,6]
+no_trade_time_range: [[01,05]]
+no_trade_day_range: [5,6]
 check_signal_strength: True
 
 # *** Telegram configurations
