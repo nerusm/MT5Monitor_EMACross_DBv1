@@ -1,10 +1,10 @@
-strat_name: 26x50EMA_H1_S4
+strat_name: 1x50EMA_H1_S3
 system_name: SurenWindows
-env: DEV
-symbols: ['GBPUSD', 'GBPCAD','EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP', 'USDJPY', 'GBPJPY', 'AUDJPY']
+env: PROD
+symbols: ['GBPUSD', 'GBPCAD','EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP',  'USDJPY', 'GBPJPY', 'AUDJPY']
 time_frame: 60
-ema_spans: [26,50]
-strat_id: 4
+ema_spans: [1,50]
+strat_id: 3
 
 decimals: 4
 timezone: UTC
@@ -17,17 +17,19 @@ send_notification: False
 #execute_trade: False
 execute_trade: True
 no_of_bars_to_check : 2
-check_trend_for_retrade: False
 lookback_stop_loss: 10
 no_of_bars_wait: 4
 lot_size: 0.1
 tp_pips: 20
-retrade_tp_pips: 40
-retry_ret_codes: [0,10020,10021,10004,10013]
-no_of_retries: 3
-retry_interval_secs: 2
+no_of_trades: 2
+retrade_tp_pips: 10
+retry_ret_codes: [0,10020,10021,10004,10013, 10016]
+no_of_retries: 5
+retry_interval_secs: 5
 no_trade_time_range: [[01,05]]
 no_trade_day_range: [5,6]
+check_signal_strength: False
+
 # *** Telegram configurations
 
 bot_token: 1853540243:AAH5xBB6arBk6Ggu1YTCa7gSO3vPxDo_AWM
@@ -55,6 +57,6 @@ uname: root
 password: root
 
 ## Log file path ##
-log_file_path: C:\Suren\logs\DBVersion\application_26x50_1H.logs
-retrade_log_file_path: C:\Suren\logs\DBVersion\retrade_application_24x50.logs
+log_file_path: C:\Suren\logs\PROD\application_1x50_1H_SID3_PROD.logs
+retrade_log_file_path: C:\Suren\logs\DBVersion\retrade_application.logs
 log_format: '%(asctime)s:: %(module)s.%(funcName)s - %(levelname)s :: %(message)s'

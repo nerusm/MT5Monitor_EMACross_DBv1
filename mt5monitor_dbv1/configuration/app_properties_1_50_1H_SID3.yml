@@ -1,5 +1,6 @@
 strat_name: 1x50EMA_H1_S3
 system_name: SurenWindows
+env: DEV
 symbols: ['GBPUSD', 'GBPCAD','EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP',  'USDJPY', 'GBPJPY', 'AUDJPY']
 time_frame: 60
 ema_spans: [1,50]
@@ -27,7 +28,7 @@ no_of_retries: 5
 retry_interval_secs: 5
 no_trade_time_range: [[01,05]]
 no_trade_day_range: [5,6]
-check_signal_strength: True
+check_signal_strength: False
 
 # *** Telegram configurations
 
