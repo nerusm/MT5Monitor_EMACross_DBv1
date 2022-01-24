@@ -157,9 +157,16 @@ def find_stop_loss(n, data, signal, is_retrade=False):
             return ll
         return ll
 
+def init_mt5():
+    logging.info("Initialising MT5")
+    if not mt5.initialize():
+        print("initialize() failed, error code =", mt5.last_error())
+        quit()
 
 def __get_rates__(symbol, time_frame, no_of_bars):
+    init_mt5()
     rates = mt5.copy_rates_from_pos(symbol, time_frame, 0, no_of_bars)
+
     # mt5.cop
     retry_count = 0
     no_of_retries = config['no_of_retries']
@@ -186,6 +193,7 @@ def __get_rates__(symbol, time_frame, no_of_bars):
     rates_frame['close'] = rates_frame['close']
     daf = pd.DataFrame(rates_frame.iloc[:, 0:5]).copy()
     daf.drop(daf.tail(1).index, inplace=True)
+    mt5.shutdown()
     return daf
 
 

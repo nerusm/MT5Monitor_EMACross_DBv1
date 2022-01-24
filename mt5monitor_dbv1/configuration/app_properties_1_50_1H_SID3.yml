@@ -12,8 +12,8 @@ mt5_trader_timezone: "Europe/Athens"
 time_frame_dict: {15: 15M, 30: 30M, 16385: H1, 16386: H2, 16387: H3, 16388: H4}
 no_of_bars: 5000
 ema_span: 50
-send_notification: False
-#send_notification: True
+#send_notification: False
+send_notification: True
 #execute_trade: False
 execute_trade: True
 no_of_bars_to_check : 2

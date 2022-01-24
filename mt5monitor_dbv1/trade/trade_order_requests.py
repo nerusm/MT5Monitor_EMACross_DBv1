@@ -8,7 +8,7 @@ import logging, time
 type_time = mt5.ORDER_TIME_DAY
 type_filling = mt5.ORDER_FILLING_RETURN
 deviation = 30
-magic = 72591869591
+magic = config['magic']
 
 
 # retry_count = 0
