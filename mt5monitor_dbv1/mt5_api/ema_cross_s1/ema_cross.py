@@ -2,7 +2,8 @@ import logging
 import os
 import time
 from datetime import datetime
-
+from dateutil.relativedelta import relativedelta
+import pytz
 import MetaTrader5 as mt5
 import numpy as np
 import pandas as pd
@@ -158,14 +159,26 @@ def find_stop_loss(n, data, signal, is_retrade=False):
         return ll
 
 def init_mt5():
-    logging.info("Initialising MT5")
+    # logging.info("Initialising MT5")
     if not mt5.initialize():
         print("initialize() failed, error code =", mt5.last_error())
         quit()
 
 def __get_rates__(symbol, time_frame, no_of_bars):
     init_mt5()
-    rates = mt5.copy_rates_from_pos(symbol, time_frame, 0, no_of_bars)
+
+    # set time zone to UTC
+    timezone = pytz.timezone("Etc/UTC")
+    # create 'datetime' object in UTC time zone to avoid the implementation of a local time zone offset
+    utc_from = datetime.today()+relativedelta(days=1,hour=0, minute=0, second=0,microsecond=0)
+    logging.info(f"UTC_FROM: {utc_from}")
+
+    rates = mt5.copy_rates_from(symbol, time_frame, utc_from, no_of_bars)
+    logging.info("Using Alternate function...")
+    # logging.info("\nT:\n")
+    # logging.info(rates_dump)
+
+    # rates = mt5.copy_rates_from_pos(symbol, time_frame, 0, no_of_bars)
 
     # mt5.cop
     retry_count = 0

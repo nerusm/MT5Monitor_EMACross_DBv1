@@ -44,7 +44,7 @@ def get_req_new_order(trade_request, comment="python script open"):
         "magic": magic,
         "comment": trade_request.get('comment'),
         "type_time": mt5.ORDER_TIME_DAY,
-        "type_filling": mt5.ORDER_FILLING_RETURN,
+        "type_filling": mt5.ORDER_FILLING_FOK,
     }
     return request
 
