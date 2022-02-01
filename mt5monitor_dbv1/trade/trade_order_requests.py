@@ -64,7 +64,7 @@ def get_close_order_req(trade_request):
         "magic": magic,
         "comment": trade_request.get('comment'),
         "type_time": type_time,
-        "type_filling": type_filling,
+        "type_filling": mt5.ORDER_FILLING_FOK,
     }
     return request
 
