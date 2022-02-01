@@ -40,7 +40,7 @@ def start_ema_cross(symbols, time_frame, ema_span, strat_id):
 
         if trade_response is not None:
             try:
-                notification.send_trade_notification(symbol=symbol, time_taken=datetime.datetime.now(), time_frame=time_frame,
+                notification.send_trade_notification(symbol=symbol, time_taken=datetime.now(), time_frame=time_frame,
                                                      trade_direction=element['signal'], strat_id=element['usr_comment'])
                 trade_crud.addNewTrade(position_id=trade_response.order, symbol=symbol,
                                        order_type=element['signal'],
