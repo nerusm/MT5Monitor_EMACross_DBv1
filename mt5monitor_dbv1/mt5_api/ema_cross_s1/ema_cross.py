@@ -2,31 +2,36 @@ import logging
 import os
 import time
 from datetime import datetime
-
+from dateutil.relativedelta import relativedelta
+import pytz
 import MetaTrader5 as mt5
 import numpy as np
 import pandas as pd
-import talib
-from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config
+from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config, \
+    get_round_decimal
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.db.db_connection import DB_Connection
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.mt5_api.ema_cross_s1.check_signal_strength_v1 import \
     SignalStrength
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.trade_wrapper import execute_trade_wrapper
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.utilities.signal_enum import Signal
-from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.utilities.utils import convert_to_ist
+from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.utilities.utils import convert_to_ist, \
+    is_trade_restricted
 
 # from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.exceptions import handle
 
 comment = 'EMA_Cross'
-# comment = 'EMA_Cross_T'
 
+
+# comment = 'EMA_Cross_T'
+# cccc
 
 def check_retrade(symbol, time_frame, no_of_bars, ema_span, signal, check_trend,
                   lookback_stop_loss):
     no_of_bars_for_trend = 8
+    round_digits = get_round_decimal(symbol=symbol)
     index = list(range(0, no_of_bars_for_trend - 1))
     df_rates = __get_rates__(symbol=symbol, time_frame=time_frame, no_of_bars=no_of_bars)
-    ema_rate = __get_ema__(df_rates=df_rates, ema_span=ema_span)
+    ema_rate = __get_ema__(df_rates=df_rates, ema_span=ema_span, round_digits=round_digits)
     df_tail = df_rates.tail(1).reset_index()
     ema_tail = ema_rate.tail(1).reset_index()
 
@@ -75,10 +80,9 @@ def get_trend(index, data, order):
         return "DOWN"
 
 
-def __get_ema__(df_rates, ema_span):
+def __get_ema__(df_rates, ema_span, round_digits=5):
     short_span = int(ema_span[0])
     long_span = int(ema_span[1])
-    round_digits = 5
     df_rates['ema_short'] = df_rates['close'].ewm(span=short_span, adjust=False).mean().round(
         round_digits)
     df_rates['ema_long'] = df_rates['close'].ewm(span=long_span, adjust=False).mean().round(
@@ -115,7 +119,7 @@ def __check_crossed__(data, no_of_bars_to_check):
         # return Signal.SELL.name
 
 
-def find_stop_loss(n, data, signal, is_retrade = False):
+def find_stop_loss(n, data, signal, is_retrade=False):
     if signal == 'SELL':
         tail = data.tail(n)['high'].round(4)
         tail.reset_index(drop=True, inplace=True)
@@ -125,7 +129,8 @@ def find_stop_loss(n, data, signal, is_retrade = False):
             ph = tail.at[hhidx - 1]
         else:
             ph = hh
-        if hhidx < tail.size:
+        if hhidx < tail.size - 1:
+            # this was added to commit
             nh = tail.at[hhidx + 1]
         else:
             nh = hh
@@ -143,7 +148,7 @@ def find_stop_loss(n, data, signal, is_retrade = False):
             pl = tail.at[llidx - 1]
         else:
             pl = ll
-        if llidx < tail.size-1:
+        if llidx < tail.size - 1:
             nl = tail.at[llidx + 1]
         else:
             nl = ll
@@ -153,9 +158,28 @@ def find_stop_loss(n, data, signal, is_retrade = False):
             return ll
         return ll
 
+def init_mt5():
+    # logging.info("Initialising MT5")
+    if not mt5.initialize():
+        print("initialize() failed, error code =", mt5.last_error())
+        quit()
 
 def __get_rates__(symbol, time_frame, no_of_bars):
-    rates = mt5.copy_rates_from_pos(symbol, time_frame, 0, no_of_bars)
+    init_mt5()
+
+    # set time zone to UTC
+    timezone = pytz.timezone("Etc/UTC")
+    # create 'datetime' object in UTC time zone to avoid the implementation of a local time zone offset
+    utc_from = datetime.today()+relativedelta(days=1,hour=0, minute=0, second=0,microsecond=0)
+    logging.info(f"UTC_FROM: {utc_from}")
+
+    rates = mt5.copy_rates_from(symbol, time_frame, utc_from, no_of_bars)
+    logging.info("Using Alternate function...")
+    # logging.info("\nT:\n")
+    # logging.info(rates_dump)
+
+    # rates = mt5.copy_rates_from_pos(symbol, time_frame, 0, no_of_bars)
+
     # mt5.cop
     retry_count = 0
     no_of_retries = config['no_of_retries']
@@ -182,6 +206,7 @@ def __get_rates__(symbol, time_frame, no_of_bars):
     rates_frame['close'] = rates_frame['close']
     daf = pd.DataFrame(rates_frame.iloc[:, 0:5]).copy()
     daf.drop(daf.tail(1).index, inplace=True)
+    mt5.shutdown()
     return daf
 
 
@@ -217,7 +242,7 @@ class EMA:
         result['sar_below'] = signal_strength.sar_below
         result['possible_stop_loss'] = possible_sl
 
-        if config['execute_trade'] is True:
+        if config['execute_trade'] is True and not is_trade_restricted():
             logging.debug("Executing Trade")
             for index, row in result.iterrows():
                 logging.debug(f"Initiating trade request for {row['symbol']}")
@@ -236,7 +261,8 @@ class EMA:
                 # self.db_conn_cls_obj.close_connection(from_func=self.__module__)
                 return execute_trade_resp
         else:
-            logging.debug("NOT Executing Trade")
+            logging.debug(
+                "NOT Executing Trade, Reason either execute trade is False or due to time constraint")
 
     def main_fun(self, symbol, time_frame, ema_span, strat_id):
         logging.debug("***********")
@@ -245,8 +271,9 @@ class EMA:
         df_rates = __get_rates__(symbol=symbol,
                                  time_frame=time_frame,
                                  no_of_bars=config['no_of_bars'])
+        round_digits = get_round_decimal(symbol=symbol)
         if df_rates is not None:
-            result = __get_ema__(df_rates, ema_span)
+            result = __get_ema__(df_rates, ema_span, round_digits=round_digits)
 
             length = len(result.index)
             comparision_result = np.where(result['ema_short'] > result['ema_long'], True, False)
@@ -268,8 +295,9 @@ class EMA:
                                                      signal=signal,
                                                      df_rates=df_rates)
                 signal_strength = signal_strength_obj.check_indicators()
-                if signal_strength.strength == 'WEEK' and strat_id == 1:
+                if signal_strength.strength == 'WEEK' and config['check_signal_strength'] == True:
                     result["is_crossed"] = ""
+                    crossed['is_crossed'] = False
                     logging.debug(
                         f"Strength is : {signal_strength.strength}, so rejecting this signal")
                 else:

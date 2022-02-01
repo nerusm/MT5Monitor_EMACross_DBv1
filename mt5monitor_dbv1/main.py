@@ -8,6 +8,7 @@ from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.db.db_trades_crud import TardesCru
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.exceptions import handle
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.update_trades import sync_trade_book
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.utilities.utils import reason_text
+from datetime import datetime
 
 ema_cross = ema.EMA()
 
@@ -39,7 +40,9 @@ def start_ema_cross(symbols, time_frame, ema_span, strat_id):
 
         if trade_response is not None:
             try:
-                trade_crud.addNewTrade(position_id=trade_response.order, symbol=symbol,
+                notification.send_trade_notification(symbol=trade_response.request.symbol, time_taken=datetime.now(), time_frame=time_frame,
+                                                     trade_direction=element['signal'], strat_id=element['usr_comment'])
+                trade_crud.addNewTrade(position_id=trade_response.order, symbol=trade_response.request.symbol,
                                        order_type=element['signal'],
                                        price=trade_response.price,
                                        magic=trade_response.request.magic,

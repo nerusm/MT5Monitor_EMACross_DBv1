@@ -1,6 +1,9 @@
+import MetaTrader5
 import MetaTrader5 as mt5
 import logging
-
+from datetime import datetime
+import pytz
+from dateutil.relativedelta import relativedelta
 
 class Trade:
     def __init__(self):
@@ -43,18 +46,29 @@ def get_request(symbol, lot, order_type, tp_pips):
         "magic": 234000,
         "comment": "python script open",
         "type_time": mt5.ORDER_TIME_DAY,
-        "type_filling": mt5.ORDER_FILLING_RETURN,
+        "type_filling": mt5.symbol_info(symbol).filling_mode,
     }
     return request
 
-td = Trade()
+# td = Trade()
+# print(MetaTrader5.ACCOUNT_TRADE_MODE_REAL)
+# info = mt5.symbol_info("GBPJPY").filling_mode
+# print( mt5.account_info() )
+# print(MetaTrader5.account_info())
+
+
+timezone = pytz.timezone("Etc/UTC")
+# create 'datetime' object in UTC time zone to avoid the implementation of a local time zone offset
+utc_from = datetime(2022, 2, 1, tzinfo=timezone)
+
+mt5.shutdown()
 # trade_fun("GBPUSD")
 # trade_fun("EURcaD")
-request = get_request('AUDCAD',0.01,mt5.ORDER_TYPE_SELL,20)
-print(request)
-print("***")
-response = mt5.order_send(request)
-#
-print(response)
-print(mt5.positions_total())
-# mt5.shutdown()
+# request = get_request('GBPJPY',0.01,mt5.ORDER_TYPE_SELL,20)
+# print(request)
+# print("***")
+# response = mt5.order_send(request)
+# #
+# print(response)
+# print(mt5.positions_total())
+# # mt5.shutdown()

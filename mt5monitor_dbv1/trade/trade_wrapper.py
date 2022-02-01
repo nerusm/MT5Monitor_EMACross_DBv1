@@ -1,12 +1,10 @@
 import logging
 
 import MetaTrader5 as mt5
-from MetaTrader5._core import TradePosition
-import sqlalchemy.dialects.mysql.mariadbconnector
-
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.exceptions import handle
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.trade_order_requests import execute_trade
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.trade.update_trades import get_open_positions
+from MetaTrader5._core import TradePosition
 
 
 def flip_signal(signal):
@@ -18,8 +16,7 @@ def flip_signal(signal):
 
 
 def execute_trade_wrapper(symbol, signal, stop_loss, parent_position_id, strat_id=1,
-                          strat_ref_id=1,
-                          usr_comment='default'):
+                          strat_ref_id=1, usr_comment='default', is_retrade = False):
     open_positions = get_open_positions(symbol=symbol, signal=flip_signal(signal),
                                         comment=usr_comment)
     if len(open_positions) > 0:
@@ -32,11 +29,14 @@ def execute_trade_wrapper(symbol, signal, stop_loss, parent_position_id, strat_i
 
     logging.debug(f"Opening a new {signal} trade")
     return open_new_trade(symbol=symbol, signal=signal, stop_loss=stop_loss, strat_id=strat_id,
-                          strat_ref_id=None, usr_comment=usr_comment)
+                          strat_ref_id=None, usr_comment=usr_comment, is_retraded=is_retrade)
+    # else:
+    #     logging.warning("Trade Execution Restricted due to time/day contraints")
+    #     return None
 
 
 def open_new_trade(symbol, signal, stop_loss, strat_id, strat_ref_id, usr_comment,
-                   parent_position_id=None):
+                   is_retraded, parent_position_id=None):
     exception_msg = f"<b>Open new Trade</b>\n" \
                     f"Symbol: {symbol} \n" \
                     f"Signal: {signal} \n" \

@@ -63,4 +63,18 @@ def order_type_name(type_int):
     }
     return type.get(type_int)
 
+def is_trade_restricted():
+    ntr_t = config['no_trade_time_range']
+    ntr_d = config['no_trade_day_range']
+    logging.debug(f"ntr_d: {ntr_d} ntr_t: {ntr_t}")
+    ct = datetime.now()
+    tt = ct.timetuple()
+    t=tt.tm_hour
+    d=tt.tm_wday
+    if d in ntr_d:
+        return True
+    for tr in ntr_t:
+        no_trd_range = range(tr[0],tr[1]+1)
+        if t in no_trd_range:
+            return True
 # print(convert_to_ist("2021-05-18 11:50:00"))

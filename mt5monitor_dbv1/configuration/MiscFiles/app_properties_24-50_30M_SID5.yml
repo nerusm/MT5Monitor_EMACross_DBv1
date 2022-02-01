@@ -1,0 +1,62 @@
+strat_name: 24x50EMA_H1_S4
+system_name: SurenWindows
+env: DEV
+symbols: ['GBPUSD', 'GBPCAD','EURUSD', 'AUDUSD','NZDUSD','USDCHF','USDCAD', 'EURGBP','EURCAD','EURAUD','AUDCAD','EURGBP', 'USDJPY', 'GBPJPY', 'AUDJPY']
+time_frame: 30
+ema_spans: [26,50]
+strat_id: 5
+
+decimals: 5
+timezone: UTC
+mt5_trader_timezone: "Europe/Athens"
+time_frame_dict: {15: 15M, 30: 30M, 16385: H1, 16386: H2, 16387: H3, 16388: H4}
+no_of_bars: 5000
+ema_span: 50
+send_notification: False
+#send_notification: True
+#execute_trade: False
+execute_trade: True
+no_of_bars_to_check : 2
+check_trend_for_retrade: False
+lookback_stop_loss: 10
+no_of_bars_wait: 4
+lot_size: 0.1
+tp_pips: 20
+retrade_tp_pips: 25
+retry_ret_codes: [0,10020,10021,10004,10013]
+no_of_retries: 3
+retry_interval_secs: 2
+no_trade_time_range: [[01,05]]
+no_trade_day_range: [5,6]
+check_signal_strength: False
+
+# *** Telegram configurations
+
+bot_token: 1853540243:AAH5xBB6arBk6Ggu1YTCa7gSO3vPxDo_AWM
+forex_group_id: 562712042
+
+
+# *** WhatsApp configurations
+send_instant_msg: False
+whatsapp_number: +917259186959
+# POC Group ID
+#whatsapp_group_id: GjoHhZKJ9ngDys6H3Bwl7B
+# Forex Group ID
+whatsapp_group_id: KUY9RDl7SQcHULNt2DoB5H
+
+
+output_base_path: C:\Suren\MonitorOutput_DBv1
+output_ema_dir: EMA
+output_cross_result_dir: CrossResult
+archive_dir: Archive
+
+## Database ##
+host: localhost
+port: 3306
+uname: root
+password: root
+
+## Log file path ##
+log_file_path: C:\Suren\logs\DBVersion\application_24x50_30M.logs
+retrade_log_file_path: C:\Suren\logs\DBVersion\retrade_application_24x50_30M.logs
+log_format: '%(asctime)s:: %(module)s.%(funcName)s - %(levelname)s :: %(message)s'

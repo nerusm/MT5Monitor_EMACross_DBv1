@@ -6,7 +6,6 @@ import telegram
 from MT5Monitor_EMACross_DBv1.mt5monitor_dbv1.configuration.app_config import config
 
 
-
 def get_file_name(path1, filename):
     return os.path.join(path1, filename)
 
@@ -52,15 +51,39 @@ def create_message(timeframe):
     return msg_str_list
 
 
+def create_trade_notification_message(symbol, time_taken, time_frame, trade_direction, strat_id):
+    txt = "<b> *** Trade OPEN *** </b>\n" \
+          "Symbol:  <b>{symbol}</b> \n" \
+          "Trade:   <b>{trade_direction}</b> \n" \
+          "Time:    <b>{time_taken}</b> \n" \
+          "TimeFrame:   <b>{time_frame}</b> \n" \
+          "Strat ID:    <b>{strat_id} </b>".format(symbol=symbol, trade_direction=trade_direction,
+                                                time_taken=time_taken, time_frame=time_frame, strat_id=strat_id)
+    return txt
+
+
 class Notification:
     bot = None
     group_id = "-" + str(config['forex_group_id'])
-
 
     def __init__(self, db_connection=None):
         bot_token = config['bot_token']
         self.bot = telegram.Bot(token=bot_token)
         self.db_connection = db_connection
+
+    def send_trade_notification(self, symbol, time_taken, time_frame, trade_direction, strat_id):
+        msg = create_trade_notification_message(symbol, time_taken, time_frame, trade_direction, strat_id)
+        if config['send_notification'] == True:
+            try:
+                res = self.bot.send_message(chat_id=self.group_id, text=msg, parse_mode="HTML")
+                logging.debug(f"Trade Notification sent to Chat: {res.chat.title}")
+            except Exception as e:
+                logging.error(f"Error occurred while sending notification: "
+                              f"{e.__class__.__name__}:: {e.message}")
+        else:
+            logging.debug("send_notification is disabled")
+            logging.debug("*****************************")
+        return None
 
     def send_notification_msg(self, message, timeframe):
         messages = create_message(timeframe=timeframe)
@@ -86,8 +109,7 @@ class Notification:
                 logging.debug(f"Message: \n {message}")
         # archive_files()
 
-    def send_err_notification(self,message):
+    def send_err_notification(self, message):
         f_message = f"<b>Exception Occured: </b>\n {message}"
         res = self.bot.send_message(chat_id=self.group_id, text=f_message,
                                     parse_mode="HTML")
-

@@ -7,7 +7,7 @@ block_cipher = None
 
 
 a = Analysis(['schedule_ema_cross.py'],
-             pathex=['C:\\Suren\\Projects\\MT5Monitor_EMACross_DBv1\\mt5monitor_dbv1\\app_scheduler'],
+             pathex=['C:\\Suren\Projects\\phase1\\Repos\\Release\\MT5Monitor_EMACross_DBv1\\mt5monitor_dbv1\\app_scheduler'],
              binaries=[],
              datas=[(path.join(site_packages,"tzdata"),"tzdata"),
               (path.join(site_packages,"sqlalchemy"),"sqlalchemy")],

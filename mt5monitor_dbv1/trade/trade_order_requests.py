@@ -8,7 +8,7 @@ import logging, time
 type_time = mt5.ORDER_TIME_DAY
 type_filling = mt5.ORDER_FILLING_RETURN
 deviation = 30
-magic = 72591869591
+magic = config['magic']
 
 
 # retry_count = 0
@@ -44,7 +44,7 @@ def get_req_new_order(trade_request, comment="python script open"):
         "magic": magic,
         "comment": trade_request.get('comment'),
         "type_time": mt5.ORDER_TIME_DAY,
-        "type_filling": mt5.ORDER_FILLING_RETURN,
+        "type_filling": mt5.ORDER_FILLING_FOK,
     }
     return request
 
@@ -64,7 +64,7 @@ def get_close_order_req(trade_request):
         "magic": magic,
         "comment": trade_request.get('comment'),
         "type_time": type_time,
-        "type_filling": type_filling,
+        "type_filling": mt5.ORDER_FILLING_FOK,
     }
     return request
 
@@ -106,7 +106,6 @@ def get_order_request(action, data_dict):
     }
     func = switcher.get(action)
     return func(data_dict)
-
 
 def execute_trade(symbol, signal, action=None,
                   position_id=None, stop_loss = None, retry_count=1,
