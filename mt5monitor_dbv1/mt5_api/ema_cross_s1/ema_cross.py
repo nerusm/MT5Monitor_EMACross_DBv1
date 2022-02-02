@@ -172,7 +172,7 @@ def __get_rates__(symbol, time_frame, no_of_bars):
     # create 'datetime' object in UTC time zone to avoid the implementation of a local time zone offset
     utc_from = datetime.today()+relativedelta(days=1,hour=0, minute=0, second=0,microsecond=0)
     logging.info(f"UTC_FROM: {utc_from}")
-
+    logging.info(f"UTC Time Now: {datetime.now(tz=timezone)}")
     rates = mt5.copy_rates_from(symbol, time_frame, utc_from, no_of_bars)
     logging.info("Using Alternate function...")
     # logging.info("\nT:\n")
